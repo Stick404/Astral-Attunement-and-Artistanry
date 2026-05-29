@@ -1,0 +1,28 @@
+{
+  "type": "modonomicon:dense",
+  "pattern": [
+    [
+      "B"
+    ],
+    [
+      "D"
+    ],
+    [
+      "0"
+    ]
+  ],
+  "mapping": {
+    "D": {
+      "type": "modonomicon:blockstate",
+      "block": "minecraft:diamond_block"
+    },
+    "B": {
+      "type": "modonomicon:blockstate",
+      "block": "minecraft:beacon"
+    },
+    "0":  {
+      "type": "modonomicon:block",
+      "block": "astral_aaa:multi_block_test_block"
+    }
+  }
+}

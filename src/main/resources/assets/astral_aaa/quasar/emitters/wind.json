@@ -1,0 +1,11 @@
+{
+  "max_lifetime": 640,
+  "loop": false,
+  "rate": 2,
+  "count": 2,
+  "emitter_settings": {
+    "shape": "astral_aaa:test_shape",
+    "particle_settings": "astral_aaa:test_particle"
+  },
+  "particle_data": "astral_aaa:test_data"
+}

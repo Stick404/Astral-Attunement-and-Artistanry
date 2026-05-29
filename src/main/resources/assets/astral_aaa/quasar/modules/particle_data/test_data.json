@@ -1,0 +1,15 @@
+{
+  "render_style": "CUBE",
+  "init_modules": [
+    "astral_aaa:firefly_light"
+  ],
+  "update_modules": [],
+  "forces": [
+    "astral_aaa:force/vector_field/test_vector_field"
+  ],
+  "render_modules": [
+    "astral_aaa:color/firefly_color"
+  ],
+  "face_velocity": true,
+  "should_collide": false
+}
